@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projeto Faculdade</string>
+    <string name="titulo_form_cadastro">Cadastre-se</string>
+    <string name="titulo_form_login">Faculdade CDL</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="texto_botao_cadastrar">Cadastrar</string>
+    <string name="texto_botao_entrar">Entrar</string>
+    <string name="texto_botao_deslogar">Checkout</string>
+    <string name="texto_tela_cadastro">Não tem uma conta? Cadastre-se!</string>
+</resources>
